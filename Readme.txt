@@ -1,0 +1,3 @@
+No exercicio #1, foi realizada a substitução de determindas imagens por botões e textos, a fim de não alterar a quantidade de elementos presentes no e-mail marketing, presenvarsar o layoult original e dominuir o risco de spam.  
+
+No exercicio #2, busquei construir um código mais limpo para facilitar o entendimento e mantendo os elementos originais presentes. Não foi possível exportar as imagens diretamente do Zeplin.
